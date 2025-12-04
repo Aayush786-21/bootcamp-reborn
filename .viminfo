@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1764866577,,"x"
+|2,0,1764867397,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,46 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitignore
-|4,48,1,0,1764866577,"~/.gitignore"
+'0  150  0  ~/1day/linux.md
+|4,48,150,0,1764867397,"~/1day/linux.md"
+'1  1  0  ~/1day/SDLC.md
+|4,49,1,0,1764867304,"~/1day/SDLC.md"
+'2  1  0  ~/.gitignore
+|4,50,1,0,1764866577,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1764866577,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/1day/linux.md
+	*	1764867396	0
+	"	150	0
+	^	150	0
+	.	149	25
+	+	149	25
+
+> ~/1day/SDLC.md
+	*	1764867302	0
+	"	1	0
+	^	1	0
+	.	95	63
+	+	95	63
 
 > ~/.gitignore
 	*	1764866575	0
