@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1764869178,,"x"
+|2,0,1764869506,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,42 @@
 # Registers:
 
 # File marks:
-'0  12  0  ~/4day/cpu-monitor.sh
-|4,48,12,0,1764869179,"~/4day/cpu-monitor.sh"
-'1  150  0  ~/1day/linux.md
-|4,49,150,0,1764867397,"~/1day/linux.md"
-'2  1  0  ~/1day/SDLC.md
-|4,50,1,0,1764867304,"~/1day/SDLC.md"
-'3  1  0  ~/.gitignore
-|4,51,1,0,1764866577,"~/.gitignore"
+'0  42  0  ~/5day/server-dashboard.sh
+|4,48,42,0,1764869506,"~/5day/server-dashboard.sh"
+'1  12  0  ~/4day/cpu-monitor.sh
+|4,49,12,0,1764869179,"~/4day/cpu-monitor.sh"
+'2  150  0  ~/1day/linux.md
+|4,50,150,0,1764867397,"~/1day/linux.md"
+'3  1  0  ~/1day/SDLC.md
+|4,51,1,0,1764867304,"~/1day/SDLC.md"
+'4  1  0  ~/.gitignore
+|4,52,1,0,1764866577,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  42  0  ~/5day/server-dashboard.sh
+|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
+-'  1  0  ~/5day/server-dashboard.sh
+|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
 -'  12  0  ~/4day/cpu-monitor.sh
 |4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
 -'  1  0  ~/4day/cpu-monitor.sh
 |4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
 -'  150  0  ~/1day/linux.md
 |4,39,150,0,1764867397,"~/1day/linux.md"
 -'  150  0  ~/1day/linux.md
 |4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
 -'  1  0  ~/1day/linux.md
 |4,39,1,0,1764867340,"~/1day/linux.md"
 -'  1  0  ~/1day/linux.md
@@ -55,6 +73,30 @@
 |4,39,1,0,1764867304,"~/1day/SDLC.md"
 -'  1  0  ~/1day/SDLC.md
 |4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1764866577,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1764866577,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -73,6 +115,13 @@
 |4,39,1,0,1764866577,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/5day/server-dashboard.sh
+	*	1764869504	0
+	"	42	0
+	^	42	0
+	.	41	81
+	+	41	81
 
 > ~/4day/cpu-monitor.sh
 	*	1764869177	0
