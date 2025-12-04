@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1764871608,,"x"
+|2,0,1764872361,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,80 @@
 # Registers:
 
 # File marks:
-'0  171  0  ~/7day/package.sh
-|4,48,171,0,1764871608,"~/7day/package.sh"
-'1  18  0  ~/7day/logrotate_app.sh
-|4,49,18,0,1764870481,"~/7day/logrotate_app.sh"
-'2  56  0  ~/5day/harden.sh
-|4,50,56,0,1764869925,"~/5day/harden.sh"
-'3  14  0  ~/5day/myip.sh
-|4,51,14,0,1764869898,"~/5day/myip.sh"
-'4  42  0  ~/5day/server-dashboard.sh
-|4,52,42,0,1764869506,"~/5day/server-dashboard.sh"
-'5  12  0  ~/4day/cpu-monitor.sh
-|4,53,12,0,1764869179,"~/4day/cpu-monitor.sh"
-'6  150  0  ~/1day/linux.md
-|4,54,150,0,1764867397,"~/1day/linux.md"
-'7  1  0  ~/1day/SDLC.md
-|4,55,1,0,1764867304,"~/1day/SDLC.md"
-'8  1  0  ~/.gitignore
-|4,56,1,0,1764866577,"~/.gitignore"
+'0  133  32  ~/8day/autumn-2025/index.html
+|4,48,133,32,1764872361,"~/8day/autumn-2025/index.html"
+'1  133  32  ~/8day/autumn-2025/index.html
+|4,49,133,32,1764872181,"~/8day/autumn-2025/index.html"
+'2  171  0  ~/7day/package.sh
+|4,50,171,0,1764871608,"~/7day/package.sh"
+'3  18  0  ~/7day/logrotate_app.sh
+|4,51,18,0,1764870481,"~/7day/logrotate_app.sh"
+'4  56  0  ~/5day/harden.sh
+|4,52,56,0,1764869925,"~/5day/harden.sh"
+'5  14  0  ~/5day/myip.sh
+|4,53,14,0,1764869898,"~/5day/myip.sh"
+'6  42  0  ~/5day/server-dashboard.sh
+|4,54,42,0,1764869506,"~/5day/server-dashboard.sh"
+'7  12  0  ~/4day/cpu-monitor.sh
+|4,55,12,0,1764869179,"~/4day/cpu-monitor.sh"
+'8  150  0  ~/1day/linux.md
+|4,56,150,0,1764867397,"~/1day/linux.md"
+'9  1  0  ~/1day/SDLC.md
+|4,57,1,0,1764867304,"~/1day/SDLC.md"
 
 # Jumplist (newest first):
+-'  133  32  ~/8day/autumn-2025/index.html
+|4,39,133,32,1764872361,"~/8day/autumn-2025/index.html"
+-'  133  32  ~/8day/autumn-2025/index.html
+|4,39,133,32,1764872181,"~/8day/autumn-2025/index.html"
+-'  1  0  ~/8day/autumn-2025/index.html
+|4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
+-'  1  0  ~/8day/autumn-2025/index.html
+|4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
 -'  171  0  ~/7day/package.sh
 |4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
 -'  1  0  ~/7day/package.sh
 |4,39,1,0,1764871603,"~/7day/package.sh"
 -'  18  0  ~/7day/logrotate_app.sh
 |4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
 -'  18  0  ~/7day/logrotate_app.sh
 |4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
 -'  1  0  ~/7day/logrotate_app.sh
 |4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
 -'  1  0  ~/7day/logrotate_app.sh
@@ -65,6 +111,54 @@
 |4,39,56,0,1764869925,"~/5day/harden.sh"
 -'  56  0  ~/5day/harden.sh
 |4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
 -'  1  0  ~/5day/harden.sh
 |4,39,1,0,1764869921,"~/5day/harden.sh"
 -'  1  0  ~/5day/harden.sh
@@ -89,6 +183,54 @@
 |4,39,14,0,1764869898,"~/5day/myip.sh"
 -'  14  0  ~/5day/myip.sh
 |4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
 -'  1  0  ~/5day/myip.sh
 |4,39,1,0,1764869890,"~/5day/myip.sh"
 -'  1  0  ~/5day/myip.sh
@@ -105,148 +247,15 @@
 |4,39,1,0,1764869890,"~/5day/myip.sh"
 -'  1  0  ~/5day/myip.sh
 |4,39,1,0,1764869890,"~/5day/myip.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  42  0  ~/5day/server-dashboard.sh
-|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  1  0  ~/5day/server-dashboard.sh
-|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  12  0  ~/4day/cpu-monitor.sh
-|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
--'  1  0  ~/4day/cpu-monitor.sh
-|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/8day/autumn-2025/index.html
+	*	1764872360	0
+	"	133	32
+	^	133	33
+	.	133	32
+	+	133	32
 
 > ~/7day/package.sh
 	*	1764871606	0
