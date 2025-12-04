@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1764869506,,"x"
+|2,0,1764869925,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,78 @@
 # Registers:
 
 # File marks:
-'0  42  0  ~/5day/server-dashboard.sh
-|4,48,42,0,1764869506,"~/5day/server-dashboard.sh"
-'1  12  0  ~/4day/cpu-monitor.sh
-|4,49,12,0,1764869179,"~/4day/cpu-monitor.sh"
-'2  150  0  ~/1day/linux.md
-|4,50,150,0,1764867397,"~/1day/linux.md"
-'3  1  0  ~/1day/SDLC.md
-|4,51,1,0,1764867304,"~/1day/SDLC.md"
-'4  1  0  ~/.gitignore
-|4,52,1,0,1764866577,"~/.gitignore"
+'0  56  0  ~/5day/harden.sh
+|4,48,56,0,1764869925,"~/5day/harden.sh"
+'1  14  0  ~/5day/myip.sh
+|4,49,14,0,1764869898,"~/5day/myip.sh"
+'2  42  0  ~/5day/server-dashboard.sh
+|4,50,42,0,1764869506,"~/5day/server-dashboard.sh"
+'3  12  0  ~/4day/cpu-monitor.sh
+|4,51,12,0,1764869179,"~/4day/cpu-monitor.sh"
+'4  150  0  ~/1day/linux.md
+|4,52,150,0,1764867397,"~/1day/linux.md"
+'5  1  0  ~/1day/SDLC.md
+|4,53,1,0,1764867304,"~/1day/SDLC.md"
+'6  1  0  ~/.gitignore
+|4,54,1,0,1764866577,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  1  0  ~/5day/harden.sh
+|4,39,1,0,1764869921,"~/5day/harden.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  14  0  ~/5day/myip.sh
+|4,39,14,0,1764869898,"~/5day/myip.sh"
+-'  1  0  ~/5day/myip.sh
+|4,39,1,0,1764869890,"~/5day/myip.sh"
+-'  1  0  ~/5day/myip.sh
+|4,39,1,0,1764869890,"~/5day/myip.sh"
 -'  42  0  ~/5day/server-dashboard.sh
 |4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
+-'  42  0  ~/5day/server-dashboard.sh
+|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
+-'  42  0  ~/5day/server-dashboard.sh
+|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
+-'  42  0  ~/5day/server-dashboard.sh
+|4,39,42,0,1764869506,"~/5day/server-dashboard.sh"
+-'  1  0  ~/5day/server-dashboard.sh
+|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
+-'  1  0  ~/5day/server-dashboard.sh
+|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
+-'  1  0  ~/5day/server-dashboard.sh
+|4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
 -'  1  0  ~/5day/server-dashboard.sh
 |4,39,1,0,1764869494,"~/5day/server-dashboard.sh"
 -'  12  0  ~/4day/cpu-monitor.sh
 |4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
 -'  12  0  ~/4day/cpu-monitor.sh
 |4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  12  0  ~/4day/cpu-monitor.sh
+|4,39,12,0,1764869179,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
+-'  1  0  ~/4day/cpu-monitor.sh
+|4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
 -'  1  0  ~/4day/cpu-monitor.sh
 |4,39,1,0,1764869171,"~/4day/cpu-monitor.sh"
 -'  1  0  ~/4day/cpu-monitor.sh
@@ -57,6 +109,54 @@
 |4,39,150,0,1764867397,"~/1day/linux.md"
 -'  150  0  ~/1day/linux.md
 |4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  150  0  ~/1day/linux.md
+|4,39,150,0,1764867397,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
+-'  1  0  ~/1day/linux.md
+|4,39,1,0,1764867340,"~/1day/linux.md"
 -'  1  0  ~/1day/linux.md
 |4,39,1,0,1764867340,"~/1day/linux.md"
 -'  1  0  ~/1day/linux.md
@@ -81,26 +181,54 @@
 |4,39,1,0,1764867304,"~/1day/SDLC.md"
 -'  1  0  ~/1day/SDLC.md
 |4,39,1,0,1764867304,"~/1day/SDLC.md"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1764866577,"~/.gitignore"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
+-'  1  0  ~/1day/SDLC.md
+|4,39,1,0,1764867304,"~/1day/SDLC.md"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1764866577,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -115,6 +243,20 @@
 |4,39,1,0,1764866577,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/5day/harden.sh
+	*	1764869924	0
+	"	56	0
+	^	56	0
+	.	55	31
+	+	55	31
+
+> ~/5day/myip.sh
+	*	1764869896	0
+	"	14	0
+	^	14	0
+	.	13	69
+	+	13	69
 
 > ~/5day/server-dashboard.sh
 	*	1764869504	0
