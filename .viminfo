@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1764872361,,"x"
+|2,0,1764873965,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,48 @@
 # Registers:
 
 # File marks:
-'0  133  32  ~/8day/autumn-2025/index.html
-|4,48,133,32,1764872361,"~/8day/autumn-2025/index.html"
+'0  7  33  ~/10day/Aayush786-21.github.io/Dockerfile
+|4,48,7,33,1764873965,"~/10day/Aayush786-21.github.io/Dockerfile"
 '1  133  32  ~/8day/autumn-2025/index.html
-|4,49,133,32,1764872181,"~/8day/autumn-2025/index.html"
-'2  171  0  ~/7day/package.sh
-|4,50,171,0,1764871608,"~/7day/package.sh"
-'3  18  0  ~/7day/logrotate_app.sh
-|4,51,18,0,1764870481,"~/7day/logrotate_app.sh"
-'4  56  0  ~/5day/harden.sh
-|4,52,56,0,1764869925,"~/5day/harden.sh"
-'5  14  0  ~/5day/myip.sh
-|4,53,14,0,1764869898,"~/5day/myip.sh"
-'6  42  0  ~/5day/server-dashboard.sh
-|4,54,42,0,1764869506,"~/5day/server-dashboard.sh"
-'7  12  0  ~/4day/cpu-monitor.sh
-|4,55,12,0,1764869179,"~/4day/cpu-monitor.sh"
-'8  150  0  ~/1day/linux.md
-|4,56,150,0,1764867397,"~/1day/linux.md"
-'9  1  0  ~/1day/SDLC.md
-|4,57,1,0,1764867304,"~/1day/SDLC.md"
+|4,49,133,32,1764872361,"~/8day/autumn-2025/index.html"
+'2  133  32  ~/8day/autumn-2025/index.html
+|4,50,133,32,1764872181,"~/8day/autumn-2025/index.html"
+'3  171  0  ~/7day/package.sh
+|4,51,171,0,1764871608,"~/7day/package.sh"
+'4  18  0  ~/7day/logrotate_app.sh
+|4,52,18,0,1764870481,"~/7day/logrotate_app.sh"
+'5  56  0  ~/5day/harden.sh
+|4,53,56,0,1764869925,"~/5day/harden.sh"
+'6  14  0  ~/5day/myip.sh
+|4,54,14,0,1764869898,"~/5day/myip.sh"
+'7  42  0  ~/5day/server-dashboard.sh
+|4,55,42,0,1764869506,"~/5day/server-dashboard.sh"
+'8  12  0  ~/4day/cpu-monitor.sh
+|4,56,12,0,1764869179,"~/4day/cpu-monitor.sh"
+'9  150  0  ~/1day/linux.md
+|4,57,150,0,1764867397,"~/1day/linux.md"
 
 # Jumplist (newest first):
+-'  7  33  ~/10day/Aayush786-21.github.io/Dockerfile
+|4,39,7,33,1764873965,"~/10day/Aayush786-21.github.io/Dockerfile"
+-'  1  0  ~/10day/Aayush786-21.github.io/Dockerfile
+|4,39,1,0,1764873798,"~/10day/Aayush786-21.github.io/Dockerfile"
 -'  133  32  ~/8day/autumn-2025/index.html
 |4,39,133,32,1764872361,"~/8day/autumn-2025/index.html"
+-'  133  32  ~/8day/autumn-2025/index.html
+|4,39,133,32,1764872361,"~/8day/autumn-2025/index.html"
+-'  133  32  ~/8day/autumn-2025/index.html
+|4,39,133,32,1764872181,"~/8day/autumn-2025/index.html"
 -'  133  32  ~/8day/autumn-2025/index.html
 |4,39,133,32,1764872181,"~/8day/autumn-2025/index.html"
 -'  1  0  ~/8day/autumn-2025/index.html
 |4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
 -'  1  0  ~/8day/autumn-2025/index.html
 |4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
+-'  1  0  ~/8day/autumn-2025/index.html
+|4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
+-'  1  0  ~/8day/autumn-2025/index.html
+|4,39,1,0,1764872133,"~/8day/autumn-2025/index.html"
 -'  171  0  ~/7day/package.sh
 |4,39,171,0,1764871608,"~/7day/package.sh"
 -'  171  0  ~/7day/package.sh
@@ -63,6 +75,22 @@
 |4,39,171,0,1764871608,"~/7day/package.sh"
 -'  171  0  ~/7day/package.sh
 |4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  171  0  ~/7day/package.sh
+|4,39,171,0,1764871608,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
+-'  1  0  ~/7day/package.sh
+|4,39,1,0,1764871603,"~/7day/package.sh"
 -'  1  0  ~/7day/package.sh
 |4,39,1,0,1764871603,"~/7day/package.sh"
 -'  1  0  ~/7day/package.sh
@@ -87,6 +115,38 @@
 |4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
 -'  18  0  ~/7day/logrotate_app.sh
 |4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  18  0  ~/7day/logrotate_app.sh
+|4,39,18,0,1764870481,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
+-'  1  0  ~/7day/logrotate_app.sh
+|4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
 -'  1  0  ~/7day/logrotate_app.sh
 |4,39,1,0,1764870472,"~/7day/logrotate_app.sh"
 -'  1  0  ~/7day/logrotate_app.sh
@@ -135,6 +195,38 @@
 |4,39,56,0,1764869925,"~/5day/harden.sh"
 -'  56  0  ~/5day/harden.sh
 |4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
+-'  56  0  ~/5day/harden.sh
+|4,39,56,0,1764869925,"~/5day/harden.sh"
 -'  1  0  ~/5day/harden.sh
 |4,39,1,0,1764869921,"~/5day/harden.sh"
 -'  1  0  ~/5day/harden.sh
@@ -155,100 +247,17 @@
 |4,39,1,0,1764869921,"~/5day/harden.sh"
 -'  1  0  ~/5day/harden.sh
 |4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  1  0  ~/5day/harden.sh
-|4,39,1,0,1764869921,"~/5day/harden.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  14  0  ~/5day/myip.sh
-|4,39,14,0,1764869898,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
--'  1  0  ~/5day/myip.sh
-|4,39,1,0,1764869890,"~/5day/myip.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/10day/Aayush786-21.github.io/Dockerfile
+	*	1764873964	0
+	"	7	33
+	^	7	34
+	.	7	31
+	+	7	5
+	+	3	28
+	+	7	31
 
 > ~/8day/autumn-2025/index.html
 	*	1764872360	0
