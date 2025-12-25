@@ -1,6 +1,5 @@
-.bash_logout
-.bashrc
-.profile
-.ssh
-.sudo_as_admin_successful
+.bash_history
 .viminfo
+/aws
+/snap
+/terraform

@@ -373,3 +373,109 @@ git status
 git add .
 git commit -m "day 11 done persistence volume in docker"
 git push origin master
+cd
+sudo docker ps 
+ls
+cd 11day/
+ls
+cd ../10day/
+ls
+cd Aayush786-21.github.io/
+ls
+sudo docker images 
+sudo docker run -d --name aayush -p 83:80 aayush:latest 
+sudo docker restart aayush
+sudo docker ps
+cd
+cd 12day/
+ls
+sudo docker login -u aayush786
+ls
+cd ../11day/
+ls
+cd ../10day/
+ls
+sudo docker add ./Aayush786-21.github.io/.
+ls
+sudo docker images
+sudo docker tag aayush:latest aayush786/devops-bootcamp:latest
+sudo docker push aayush786/devops-bootcamp:latest
+docker images
+sudo docker images
+cd ..
+cd 12day/
+sudo docker pull yshakya/adex-devops
+sudo docker run --platform linux/amd64 yshakya/adex-devops
+sudo docker pull --platform linux/amd64 yshakya/adex-devops
+sudo docker run -d -p 87:80 --name sir-ko-page yshakya/adex-devops:latest
+sudo docker ps
+curl localhost:87
+sudo docker ps
+sudo netstat -tulpn
+sudo docker stop sir-ko-page
+sudo docker rm sir-ko-page
+sudo docker run -d --name sir-ko-page -p 8080:80 yshakya/adex-devops:latest
+sudo docker ps
+cp /Users/aayush/Desktop/* .
+ls
+cd
+ls
+git status
+cd nginx-data/
+ls
+cd ..
+rmdir nginx-data/
+ls
+git add .
+git commit -m "updated to run the portfolio of sir"
+git push origin master
+find . -f name "*3" >2/dev/null/
+find . -name "*3" 2>/dev/null
+exit
+ls
+cd aws
+vim main.tf 
+ls
+mkdir aws
+cd aws
+sudo snap install terraform
+sudo apt install snap
+sudo snap install terraform
+sudo apt remove snap
+sudo apt install snapd
+sudo snap install terraform
+sudo snap install terraform --classic
+terraform init
+vim main.tf
+terraform init
+cat main.tf 
+vim main.tf 
+terraform init
+tree .terraform/
+du -h
+ll
+terraform plan
+sudo apt install aws
+sudo apt install aws-cli
+sudo apt update
+sudo apt install -y unzip curl
+curl "https://awscli.amazonaws.com/awscli-exe-linux-aarch64.zip" -o "awscliv2.zip"
+aws configure
+unzip awscliv2.zip
+sudo ./aws/install
+aws configure
+terraform plan
+cat main.tf 
+terraform plan
+aws s3 ls
+terraform apply
+aws sts get-caller-identity
+vim main.tf 
+terraform plan
+terraform apply
+aws s3 ls
+vim main.tf 
+terraform plan
+terraform apply
+aws s3 ls
+terraform destroy
