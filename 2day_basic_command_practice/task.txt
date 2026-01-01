@@ -1,0 +1,20 @@
+Part 1: Linux Command Line Basics
+
+Using a Linux terminal (VM, WSL, or cloud instance):
+
+• Create the following directory structure:
+
+~/devops-lab/
+├── projects/
+│   ├── app1/
+│   └── app2/
+├── configs/
+└── logs/
+
+
+• Navigate to ~/devops-lab/projects/app1/ and create a file called README.md
+• Copy README.md to app2/ directory
+• List all files in ~/devops-lab/ recursively showing hidden files
+
+Deliverable:
+Screenshot of your terminal showing the commands and their output

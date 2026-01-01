@@ -479,3 +479,286 @@ terraform plan
 terraform apply
 aws s3 ls
 terraform destroy
+ls
+cd 1day/
+ls
+cd ..
+cd 2day/
+ls
+cd ../6day
+ls
+cd 3tier/
+ls
+vim documentation_3tier.txt
+cd ..
+cd 3tier/
+ls
+mv /Users/aayush/Documents/devops-bootcamp/3tier\ architecture.drawio.png .
+ls
+ll
+rm documentation_3tier.txt 
+mv /Users/aayush/Desktop/Understanding\ 3_tier.docx .
+ls
+cd ..
+git status
+touch .gitignore
+echo -e ".bash_history\n.viminfo" > .gitignore
+ll
+cat .gitignore 
+git status
+git add .
+git commit -m "update: the 3tier architecture completed in 6day folder"
+git add .
+echo -e "/aws\n/snap\n/terraform" >> .gitignore
+cat .gitignore 
+git rm -f --cached
+git rm -f --cached /terraform
+git rm -f --cached /aws
+git rm -f --cached /.bashhistory
+git rm -f --cached .bashhistory
+git rm -f --cached terraform/
+git rm -r --cached aws/
+git rm -r --cached snap/
+git rm -r --cached terraform/
+ls
+git status
+git add .
+git commit -m "update: the 3tier architecture completed in 6day folder"
+git push origin master
+ls
+git filter-repo --path .aws --path .viminfo --invert-paths
+sudo apt install git-filter-repo
+git filter-repo --path .aws --path .viminfo --invert-paths
+git push origin master --force
+git filter-repo --force --path .aws --path .viminfo --invert-paths
+git push origin master --force
+git push origin master
+git remote -v
+git remote add origin https://github.com/Aayush786-21/bootcamp-reborn.git
+git push origin master --force
+cd 6day/
+ls
+cd 3tier/
+ls
+rm Understanding\ 3_tier.docx 
+mv /Users/aayush/Desktop/Understanding\ 3_tier.pdf .
+cd ../..
+git status
+git add .
+git commit -m "FIX:changed the docx to pdf"
+git push origin master
+ls
+ll
+cd .aws
+cd ~/.aws
+cd /home/ubuntu/.aws
+ls
+cd aws/
+ls
+cd .aws
+cd
+cd aws/
+ls
+ll
+cd aws
+ll
+cat .aws
+cd
+cd ~/.aws
+cd terraform/
+ls
+terrafrom workspace show
+sudo apt update
+terraform init
+terraform workspace list
+cd /.aws
+sudo find / -type f -name "credentials" 2>/dev/null
+cd /mnt/mac/System/Volumes/Data/Users/aayush/.aws/
+ls
+sudo vim credentials 
+cd
+ls
+cd terraform/
+ls
+cd s3/
+ls
+cat variables.tf 
+cd ..
+vim variable.tf
+ls
+terraform destroy
+aws configure
+terraform destroy
+terraform workspace new dev
+terraform workspace show
+cd de
+ll
+terraform plan
+echo $?
+terrafrom apply -var="bucket_name=aayush786-2026-bucket"
+terraform apply
+terraform plan
+terraform apply
+terraform destroy
+terraform plan
+terraform apply
+vim main.tf 
+terraform plan
+terraform apply
+cat main.tf 
+cat variable.tf 
+vim main.tf 
+terraform destroy
+}
+clear
+vim main.tf 
+vim variable.tf 
+vim s3/main.tf 
+terraform gitint
+terraform init
+terraform plan
+terraform apply
+ls
+cd .aws/
+ls
+cd
+cd 7day/
+ls
+curosor .
+cursor .
+hostory
+history
+cd 
+ls
+cd 5day/
+ls
+cd
+ls
+cd 1day/
+ls
+cd ..
+mv 1day 1day_basics_of_linux_and_sdlc
+ll
+ls
+cd 2day/
+ls
+vim task.txt
+vim task2.txt
+ls
+cd ..
+mv 2day 2day_basic_command_practice
+ls
+cd 3day/
+ls
+vim task2.txt
+cd ../2day_basic_command_practice/
+ls
+rm task2.txt 
+cd ..
+cd 3day/
+ls
+cd ..
+mv 3day 3day_basic_linux_command
+ls
+cd 4day/
+ls
+vim task.txt
+cd ..
+mv 4day 4day_cpu_monitoring_and_cpu_report
+ls
+cd 5day/
+ls
+vim task.txt
+cd ..
+mv 5day 5day_knowing_the_linux_system
+ls
+cd 6day/
+ls
+cd ..
+mv 6day 6day_3_tier_architecture
+ls
+cd 7day/
+ls
+cat logrotate_app.sh 
+cd node-hello/
+ls
+cd ..
+ls
+rm -rf node-hello/
+ls
+cat logrotate_app.sh 
+sudo crontab -e
+crontab -l
+sudo crontab -l
+mv /Users/aayush/Desktop/Screenshot\ 2025-12-26\ at\ 1.06.12 PM.png .
+ls
+cd ..
+mv 7day 7day_log_rotate_and_cronjob
+cd 7day_log_rotate_and_cronjob/
+ls
+vim task.txt
+cd ..
+cd 8day/
+ls
+cd autumn-2025/
+ls
+cd ..
+docker pull nginx
+docker run -d --name nginx-test -p 80:80 nginx
+sudo systemctl restart docker
+sudo systemctl restart daemon
+sudo systemctl daemon reload
+docker run -d --name nginx-test -p 80:80 nginx
+docker -v
+sudo systemctl start docker
+sudo systemctl status docker
+docker pull nginx
+docker run -d --name nginx-test -p 80:80 nginx
+unset DOCKER_HOST
+grep -R "DOCKER_HOST" ~/.bashrc ~/.profile ~/.bash_profile ~/.zshrc 2>/dev/null
+docker run hello-world
+sudo docker run hello-world
+docker pull nginx
+docker run -d --name nginx-test -p 80:80 nginx
+sudo docker pull nginx
+sudo docker run -d --name nginx-test -p 80:80 nginx
+sudo docker ps
+sudo docker exec -it nginx-test bash
+docker stop nginx-test
+docker start nginx-test
+sudo stop nginx-test
+sudo docker stop nginx-test
+sudo docker start nginx-test
+sudo docker rm -f nginx-test
+sudo docker run -d --name nginx-test -p 80:80 nginx
+sudo docker volume create nginx-data
+docker run -d   --name nginx-volume   -p 80:80   -v nginx-data:/usr/share/nginx/html   nginx
+sudo docker run -d   --name nginx-volume   -p 80:80   -v nginx-data:/usr/share/nginx/html   nginx
+sudo docker stop nginx-test
+sudo docker rm nginx-test
+sudo docker run -d   --name nginx-volume   -p 80:80   -v nginx-data:/usr/share/nginx/html   nginx
+sudo docker rm nginx-test
+sudo docker rmi nginx-test
+sudo docker ps
+sudo docker volume ps
+sudo docker volume
+sudo docker volume ls
+sudo docker volume rm nginx-data
+sudo docker ps -a
+sudo docker rm 19d524bb09f6
+sudo docker run -d   --name nginx-volume   -p 80:80   -v nginx-data:/usr/share/nginx/html   nginx
+sudo docker exec -it nginx-volume bash
+echo "<h1>Hello from Docker Volume</h1>" > /usr/share/nginx/html/index.html
+exit
+mv /Users/aayush/Downloads/ExportBlock-9f2edf2d-9238-42c0-b2b4-19fb1e435b2e-Part-1/* .
+ls
+cd terraform
+cd
+ls
+cd .aws
+ls
+vim credentials 
+cd ..
+ls
+cd terraform/
+ls

@@ -1,0 +1,13 @@
+Task: Package Management
+
+Update your package index
+
+Install htop (system monitoring tool)
+
+Check if nginx is installed. If not, list the command you would use to install it (DON'T actually install if you don't have sudo)
+
+List all currently installed packages and save the output to ~/devops-lab/packages.txt
+
+Deliverable:
+• Screenshot of package update and htop installation
+• Text file with installed packages list
