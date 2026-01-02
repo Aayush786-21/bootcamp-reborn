@@ -4,3 +4,10 @@
 /snap
 /terraform
 .aws/
+.ssh
+.bash_history
+.bashrc
+.selected_editor
+.sudo_as_admin_successful
+.profile
+.bash_logout
